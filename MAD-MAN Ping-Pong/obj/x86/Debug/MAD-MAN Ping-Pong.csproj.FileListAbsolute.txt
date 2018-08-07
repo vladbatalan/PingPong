@@ -1,0 +1,18 @@
+C:\Users\Vlad\AppData\Local\Temporary Projects\MAD-MAN Ping-Pong\bin\Debug\MAD-MAN Ping-Pong.exe
+C:\Users\Vlad\AppData\Local\Temporary Projects\MAD-MAN Ping-Pong\bin\Debug\MAD-MAN Ping-Pong.pdb
+C:\Users\Vlad\AppData\Local\Temporary Projects\MAD-MAN Ping-Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vlad\AppData\Local\Temporary Projects\MAD-MAN Ping-Pong\obj\x86\Debug\MAD_MAN_Ping_Pong.Form1.resources
+C:\Users\Vlad\AppData\Local\Temporary Projects\MAD-MAN Ping-Pong\obj\x86\Debug\MAD_MAN_Ping_Pong.Properties.Resources.resources
+C:\Users\Vlad\AppData\Local\Temporary Projects\MAD-MAN Ping-Pong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Vlad\AppData\Local\Temporary Projects\MAD-MAN Ping-Pong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vlad\AppData\Local\Temporary Projects\MAD-MAN Ping-Pong\obj\x86\Debug\MAD-MAN Ping-Pong.exe
+C:\Users\Vlad\AppData\Local\Temporary Projects\MAD-MAN Ping-Pong\obj\x86\Debug\MAD-MAN Ping-Pong.pdb
+D:\Vlad stick\MAD-MAN Ping-Pong\MAD-MAN Ping-Pong\obj\x86\Debug\MAD-MAN Ping-Pong.exe
+D:\Vlad stick\MAD-MAN Ping-Pong\MAD-MAN Ping-Pong\obj\x86\Debug\MAD-MAN Ping-Pong.pdb
+D:\Vlad stick\MAD-MAN Ping-Pong\MAD-MAN Ping-Pong\bin\Debug\MAD-MAN Ping-Pong.exe
+D:\Vlad stick\MAD-MAN Ping-Pong\MAD-MAN Ping-Pong\bin\Debug\MAD-MAN Ping-Pong.pdb
+D:\Vlad stick\MAD-MAN Ping-Pong\MAD-MAN Ping-Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vlad stick\MAD-MAN Ping-Pong\MAD-MAN Ping-Pong\obj\x86\Debug\MAD_MAN_Ping_Pong.Form1.resources
+D:\Vlad stick\MAD-MAN Ping-Pong\MAD-MAN Ping-Pong\obj\x86\Debug\MAD_MAN_Ping_Pong.Properties.Resources.resources
+D:\Vlad stick\MAD-MAN Ping-Pong\MAD-MAN Ping-Pong\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Vlad stick\MAD-MAN Ping-Pong\MAD-MAN Ping-Pong\obj\x86\Debug\GenerateResource.write.1.tlog
